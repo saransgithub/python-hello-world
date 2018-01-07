@@ -1,2 +1,2 @@
 # python-hello-world
-Hello World Progrom for pytho
+Hello World Progrom for Python
